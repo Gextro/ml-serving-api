@@ -1,5 +1,12 @@
 # ML Model Serving API + Monitoring Dashboard
 
+[![CI](https://github.com/Gextro/ml-serving-api/actions/workflows/ci.yml/badge.svg)](https://github.com/Gextro/ml-serving-api/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-8B5CF6.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 **🔗 Live demo:** https://ml-serving-api.onrender.com
 
 A production-style **MLOps** project: train a machine-learning model, serve it behind a REST
